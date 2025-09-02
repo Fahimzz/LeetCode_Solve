@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0679-24-game](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Fahimzz/leet_3025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Fahimzz/leet_3025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Math
 |  |
 | ------- |
+| [0679-24-game](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0679-24-game) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Fahimzz/leet_3025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Geometry
 |  |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Fahimzz/leet_3025/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
