@@ -8,23 +8,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0679-24-game](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Fahimzz/leet_3025/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Fahimzz/leet_3025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Fahimzz/leet_3025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Math
 |  |
 | ------- |
 | [0679-24-game](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0679-24-game) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Fahimzz/leet_3025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Fahimzz/leet_3025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Fahimzz/leet_3025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Fahimzz/leet_3025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Sorting
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Fahimzz/leet_3025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Fahimzz/leet_3025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Fahimzz/leet_3025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Fahimzz/leet_3025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Dynamic Programming
 |  |
