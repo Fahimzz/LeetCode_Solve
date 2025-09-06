@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Fahimzz/leet_3025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Fahimzz/leet_3025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Fahimzz/leet_3025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Fahimzz/LeetCode_Solve/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Math
 |  |
 | ------- |
 | [0679-24-game](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0679-24-game) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Fahimzz/leet_3025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Fahimzz/leet_3025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Fahimzz/LeetCode_Solve/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/Fahimzz/LeetCode_Solve/tree/master/3830-find-closest-person) |
 ## Geometry
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Fahimzz/LeetCode_Solve/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Fahimzz/LeetCode_Solve/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Brainteaser
 |  |
 | ------- |
