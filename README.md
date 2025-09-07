@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0679-24-game](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Fahimzz/leet_3025/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Fahimzz/LeetCode_Solve/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Fahimzz/leet_3025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Fahimzz/leet_3025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Fahimzz/LeetCode_Solve/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0679-24-game](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0679-24-game) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Fahimzz/LeetCode_Solve/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Fahimzz/leet_3025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Fahimzz/leet_3025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Fahimzz/LeetCode_Solve/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
