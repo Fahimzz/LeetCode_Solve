@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/Fahimzz/LeetCode_Solve/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Fahimzz/leet_3025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Fahimzz/leet_3025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Fahimzz/LeetCode_Solve/tree/master/1834-minimum-number-of-people-to-teach) |
+## String
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/Fahimzz/LeetCode_Solve/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
