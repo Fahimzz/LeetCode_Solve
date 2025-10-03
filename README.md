@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0120-triangle) |
+| [0407-trapping-rain-water-ii](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0407-trapping-rain-water-ii) |
 | [0611-valid-triangle-number](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0830-largest-triangle-area) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0407-trapping-rain-water-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Fahimzz/leet_3025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3797-design-spreadsheet](https://github.com/Fahimzz/LeetCode_Solve/tree/master/3797-design-spreadsheet) |
 ## Backtracking
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0407-trapping-rain-water-ii) |
 | [2023-design-movie-rental-system](https://github.com/Fahimzz/LeetCode_Solve/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Fahimzz/LeetCode_Solve/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Fahimzz/LeetCode_Solve/tree/master/3678-design-task-manager) |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Fahimzz/LeetCode_Solve/tree/master/2324-find-triangular-sum-of-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
