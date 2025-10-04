@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0011-container-with-most-water) |
 | [0120-triangle](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0120-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0407-trapping-rain-water-ii) |
 | [0611-valid-triangle-number](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0611-valid-triangle-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Fahimzz/LeetCode_Solve/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Fahimzz/LeetCode_Solve/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0611-valid-triangle-number) |
 ## Combinatorics
