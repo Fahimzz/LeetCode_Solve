@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0679-24-game) |
+| [0794-swim-in-rising-water](https://github.com/Fahimzz/leet_3025/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/Fahimzz/LeetCode_Solve/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Fahimzz/LeetCode_Solve/tree/master/1018-largest-perimeter-triangle) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Fahimzz/leet_3025/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Fahimzz/leet_3025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3797-design-spreadsheet](https://github.com/Fahimzz/LeetCode_Solve/tree/master/3797-design-spreadsheet) |
 ## Backtracking
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/Fahimzz/leet_3025/tree/master/0794-swim-in-rising-water) |
 | [2023-design-movie-rental-system](https://github.com/Fahimzz/LeetCode_Solve/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Fahimzz/LeetCode_Solve/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Fahimzz/LeetCode_Solve/tree/master/3678-design-task-manager) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/Fahimzz/leet_3025/tree/master/0794-swim-in-rising-water) |
 | [3827-implement-router](https://github.com/Fahimzz/LeetCode_Solve/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
@@ -199,8 +203,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Fahimzz/leet_3025/tree/master/0794-swim-in-rising-water) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Fahimzz/LeetCode_Solve/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Fahimzz/leet_3025/tree/master/0794-swim-in-rising-water) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/Fahimzz/leet_3025/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
