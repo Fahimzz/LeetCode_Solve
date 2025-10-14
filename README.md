@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Fahimzz/leet_3025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Fahimzz/LeetCode_Solve/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Fahimzz/LeetCode_Solve/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Fahimzz/LeetCode_Solve/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Fahimzz/LeetCode_Solve/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Fahimzz/LeetCode_Solve/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Fahimzz/LeetCode_Solve/tree/master/3797-design-spreadsheet) |
